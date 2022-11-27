@@ -5,6 +5,9 @@ h1{
 pre{
     color: rgb(5, 179, 5);
 }
+span{
+    color: red;
+}
 .main{
     width: 60%;
     margin: 0 auto;
